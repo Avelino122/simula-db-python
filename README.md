@@ -13,3 +13,6 @@ e dps buscado por um input. apenas para fins de estudos e testes, quando vc para
 ```bash 
 ➜ 💫 python3 simulaDB.py  
 ```
+
+
+q
