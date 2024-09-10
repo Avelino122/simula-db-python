@@ -16,11 +16,11 @@ e dps buscado por um input. apenas para fins de estudos e testes, quando vc para
 ## import flask
 
 ```bash
-➜ 💫 pip install Flask
+ pip install Flask
 ```
 
 ## compile .py
 
 ```bash
-➜ 💫 python3 simulaDB.py
+ python3 simulaDB.py
 ```
